@@ -1,7 +1,7 @@
 +++
 title = "Heterogeneous Subgraph Features for Information Networks"
 date = 2018-01-01
-authors = ["Andreas Spitz", "Diego Costa", "Kai Chen", "Jan Greulich", "Johanna Gei\ss", "Stefan Wiesberg", "Michael Gertz"]
+authors = ["Andreas Spitz", "Diego Costa", "Kai Chen", "Jan Greulich", "Johanna Geiss", "Stefan Wiesberg", "Michael Gertz"]
 publication_types = ["1"]
 abstract = ""
 selected = "false"
