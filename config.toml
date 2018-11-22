@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Diego Costa"
+title = "Diego Elias Costa"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -292,7 +292,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]
