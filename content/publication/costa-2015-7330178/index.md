@@ -6,7 +6,7 @@ publication_types = ["1"]
 abstract = ""
 selected = "false"
 publication = "*2015 IEEE 23rd International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems*"
-tags = ["storage management;dynamic memory allocations;real-world applications;ubiquitous operations;computer programs;frequent memory allocation patterns;deallocation patterns;synthetic workloads;memory management;Resource management;Memory management;Dynamic scheduling;Databases;Computers;Servers;Instruments;memory management;dynamic allocation;characterization;experimental study"]
+tags = ["storage management;dynamic memory allocations;real-world applications;allocation patterns;deallocation patterns;synthetic workloads;memory management;"]
 doi = "10.1109/MASCOTS.2015.28"
 +++
 
