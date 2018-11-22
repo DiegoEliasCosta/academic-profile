@@ -45,5 +45,5 @@ adaptive data structures and algorithms, performance testing, mining software re
 I am particularly interested in materializing empirical results into tools and approaches that minimize the 
 burden of developers in performance related tasks.
 
-Born in Brazil, I have received my Bsc and Msc at the Federal University of Uberlandia.
+Born in Brazil, I have received my Bachelor and Master of Science degree at the Federal University of Uberlândia.
 
