@@ -12,7 +12,9 @@ weight = 5
   interests = [
     "Software Engineering",
     "Performance Engineering",
+	"Empirical Software Engineering",
     "Program Analysis",
+	"Machine Learning",
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,5 +37,12 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a resaearcher and PhD student in the Institute of Computer Science at Heidelberg University.
+My research interests cover the wide intersection between performance engineering and software engineering related topics, including 
+performance testing, adaptive data structures and algorithms, mining software repositories.
+
+I am particularly interested in materializing empirical software engineering results into tools and approaches that minimize the burden
+of developers in regarding to performance optimization.
+
+Born in Brazil, I have received my Bsc and Msc at the Federal University of Uberlandia.
 
