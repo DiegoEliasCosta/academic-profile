@@ -2,7 +2,7 @@
 # Custom widget.
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
-widget = "custom"
+widget = "Teaching"
 active = true
 date = 2016-04-20T00:00:00
 
@@ -15,6 +15,9 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+Lectures (assistant)
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+* Distributed Systems [winter 2018/2019]
+* Betriebssysteme und Netzwerke [summer 2018]
+* Mining Massive Datasets [winter 2017/2018]
+
