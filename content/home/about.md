@@ -37,12 +37,13 @@ weight = 5
 
 # Biography
 
-I am a resaearcher and PhD student in the Institute of Computer Science at Heidelberg University.
-My research interests cover the wide intersection between performance engineering and software engineering related topics, including 
-performance testing, adaptive data structures and algorithms, mining software repositories.
+I am a researcher and PhD student at Heidelberg University, working at the Institute of Computer Science 
+in the Parallel and Distributed Systems Group of Prof. Andrzejak. 
 
-I am particularly interested in materializing empirical software engineering results into tools and approaches that minimize the burden
-of developers in regarding to performance optimization.
+My research is focused on software engineering and performance engineering related topics, including 
+adaptive data structures and algorithms, performance testing, mining software repositories, API recommendation and memory leak detection.
+I am particularly interested in materializing empirical results into tools and approaches that minimize the 
+burden of developers in performance related tasks.
 
 Born in Brazil, I have received my Bsc and Msc at the Federal University of Uberlandia.
 
