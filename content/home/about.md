@@ -12,7 +12,6 @@ weight = 5
   interests = [
     "Software Engineering",
     "Performance Engineering",
-	"Empirical Software Engineering",
     "Program Analysis",
 	"Machine Learning",
   ]
@@ -38,12 +37,12 @@ weight = 5
 # Biography
 
 I am a researcher and PhD student at Heidelberg University, working at the Institute of Computer Science 
-in the Parallel and Distributed Systems Group of Prof. Andrzejak. 
+in the [Parallel and Distributed Systems Group](https://pvs.ifi.uni-heidelberg.de/home/) of [Prof. Andrzejak](https://pvs.ifi.uni-heidelberg.de/team/aa/). 
 
 My research is focused on software engineering and performance engineering related topics, including 
 adaptive data structures and algorithms, performance testing, mining software repositories, API recommendation and memory leak detection.
 I am particularly interested in materializing empirical results into tools and approaches that minimize the 
 burden of developers in performance related tasks.
 
-Born in Brazil, I have received my Bachelor and Master of Science degree at the Federal University of Uberlândia.
+Born in Brazil, I have received my Bachelor and Master of Science degrees at the Federal University of Uberlândia.
 

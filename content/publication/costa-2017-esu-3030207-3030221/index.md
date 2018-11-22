@@ -8,8 +8,6 @@ selected = "false"
 publication = "*Proceedings of the 8th ACM/SPEC on International Conference on Performance Engineering*"
 tags = ["collections", "empirical study", "execution time", "java", "memory", "performance"]
 url_pdf = "http://doi.acm.org/10.1145/3030207.3030221"
-url_code = "https://github.com/DiegoEliasCosta/CollectionsBench"
-url_slides = "https://pvs.ifi.uni-heidelberg.de/fileadmin/papers/2017/ICPE2017_EmpiricalStudyCollections_Costa.pdf"
 doi = "10.1145/3030207.3030221"
 +++
 
