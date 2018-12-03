@@ -15,8 +15,10 @@ weight = 60
 
 +++
 
-Lectures (assistant)
+## Lectures (assistant)
 
-* Distributed Systems [winter 2018/2019]
-* Betriebssysteme und Netzwerke [summer 2018]
-* Mining Massive Datasets [winter 2017/2018]
+Distributed Systems (winter 2018 / 2019)
+
+Betriebssysteme und Netzwerke (summer 2018)
+
+Mining Massive Datasets (winter 2017 / 2018)
