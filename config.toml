@@ -59,7 +59,7 @@ enableGitInfo = false
   organizations = [ { name = "Heidelberg University", url = "https://www.uni-heidelberg.de/index_e.html" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "diego-looking.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "diego-marriage3.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "diego.costa@informatik.uni-heidelberg.de"
