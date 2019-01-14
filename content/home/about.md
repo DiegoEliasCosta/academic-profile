@@ -13,7 +13,7 @@ weight = 5
     "Software Engineering",
     "Performance Engineering",
     "Program Analysis",
-	"Machine Learning",
+	"Mining Software Repositories",
   ]
 
 # List your qualifications (such as academic degrees).
