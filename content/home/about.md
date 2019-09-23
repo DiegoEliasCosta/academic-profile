@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2018-10-18T00:00:00
+date = 2019-09-23T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -13,14 +13,14 @@ weight = 5
     "Software Engineering",
     "Performance Engineering",
     "Program Analysis",
-	"Mining Software Repositories",
+	  "Mining Software Repositories",
   ]
 
 # List your qualifications (such as academic degrees).
 #[[education.courses]]
-#  course = "PhD in Artificial Intelligence"
-#  institution = "Stanford University"
-#  year = 2012
+  course = "PhD in Computer Science"
+  institution = "Heidelberg University"
+  year = 2019
 
 [[education.courses]]
   course = "MSc in Computer Science"
