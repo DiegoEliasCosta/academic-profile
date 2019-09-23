@@ -52,7 +52,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Diego Elias Costa"
-  role = "PhD Student"
+  role = "Postdoctoral Researcher"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -63,7 +63,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "diego.costa@informatik.uni-heidelberg.de"
-  address = "Institute of Computer Science, Room 2/231 INF205, Heidelberg University, Heidelberg, 69120, Germany"
+  address = "1515 St. Catherine Street West, EV 3.238, Concordia University, Montreal, H3G 1M8, Canada"
   office_hours = "Email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"

@@ -41,7 +41,7 @@ I am a postdoctoral researcher at Concordia University, working at the Departmen
 My research is focused on software engineering and performance engineering related topics, including 
 adaptive data structures and algorithms, performance testing, mining software repositories, API recommendation and memory leak detection.
 I am particularly interested in materializing empirical results into tools and approaches that minimize the 
-burden of developers in performance related tasks.
+burden of developers.
 
 Born in Brazil, I have received my Bachelor and Master of Science degrees at the Federal University of Uberlândia.
 
