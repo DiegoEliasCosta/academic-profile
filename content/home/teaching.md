@@ -15,6 +15,8 @@ weight = 60
 
 +++
 
+Betriebssysteme und Netzwerke (summer 2019)
+
 Distributed Systems (winter 2018 / 2019)
 
 Betriebssysteme und Netzwerke (summer 2018)

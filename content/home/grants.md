@@ -18,6 +18,9 @@ weight = 63
 
 +++
 
+**2019 - 2021** 
+Grant from the [Horizon Postdoctoral Fellowship](https://www.concordia.ca/sgs/postdoctoral-fellows/funding/horizon.html) for the postdoctoral research at Concordia University (2019-2021). 
+
 **2015 - 2017** 
 Grant from the [HGS Math Comp](http://www.mathcomp.uni-heidelberg.de/) for the 
 PhD project: “Autotuning of Code Performance for Scientific Computing” (2015-2017). 
