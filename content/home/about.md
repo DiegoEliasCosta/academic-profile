@@ -36,8 +36,7 @@ weight = 5
 
 # Biography
 
-I am a researcher and PhD student at Heidelberg University, working at the Institute of Computer Science 
-in the [Parallel and Distributed Systems Group](https://pvs.ifi.uni-heidelberg.de/home/) of [Prof. Andrzejak](https://pvs.ifi.uni-heidelberg.de/team/aa/). 
+I am a postdoctoral researcher at Concordia University, working at the Department of Computer Science and Software Engineering in the [DAS Lab](http://das.encs.concordia.ca/) of Prof. [Emad Shihab](http://das.encs.concordia.ca/members/emad-shihab/). Before that, I was doing my PhD at Heidelberg University, in the [Parallel and Distributed Systems Group](https://pvs.ifi.uni-heidelberg.de/home/) of [Prof. Andrzejak](https://pvs.ifi.uni-heidelberg.de/team/aa/). 
 
 My research is focused on software engineering and performance engineering related topics, including 
 adaptive data structures and algorithms, performance testing, mining software repositories, API recommendation and memory leak detection.
