@@ -17,7 +17,7 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
-#[[education.courses]]
+[[education.courses]]
   course = "PhD in Computer Science"
   institution = "Heidelberg University"
   year = 2019
